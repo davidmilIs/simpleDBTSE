@@ -36,5 +36,5 @@ To the follow the execution, use F5 (mostly) to dive into the calls, use F7 to r
 
 ## Expected result
 
-A document (doc,pdf) uploaded on mootse. Do not hesitate to produce figures whenever required.
+A PDF document uploaded on [mootse](https://mootse.telecom-st-etienne.fr/mod/assign/view.php?id=10364). Do not hesitate to produce figures whenever required.
 
