@@ -12,13 +12,14 @@ Execute in the following order the main files contained in src/client/java to en
 
  * CreateStudentDB => Create the student database
  * FindMajors => Return the majors in the database 
- ## Your work
+
+## Your work
  
- In this lab, we want to analyze the structure of the code of a Database engine, identify its components and their interactions.
+In this lab, we want to analyze the structure of the code of a Database engine, identify its components and their interactions.
  
- The various components of a database system are presented in Figure 1 of [the following paper](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf). This simple database engine does not contain all the components describe in this Figure. Please note that this paper is fundamental in this course and you may refer to it, whenever required.
+The various components of a database system are presented in Figure 1 of [the following paper](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf). This simple database engine does not contain all the components describe in this Figure. Please note that this paper is fundamental in this course and you may refer to it, whenever required.
  
- Your work is to identify which of them are present and which are missing. For each block, also give the name of the associated packages in the project.
+Your work is to identify which of them are present and which are missing. For each block, also give the name of the associated packages in the project.
  
  **How to process ?**
  
