@@ -32,7 +32,7 @@ This will setup breakpoints when update, query and commit are called on the serv
 
 Then start one of the following class:
 * Creation of the database and insertion of values, using CreateStudentDB
-* Selection of entries from the Database, using FindMajors
+* Selection of entries from the Database, using StudentMajors
 To the follow the execution, use F5 (mostly) to dive into the calls, use F7 to return from a function (hashcode() or other Java API functions)
 
 ## Expected result
