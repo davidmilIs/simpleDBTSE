@@ -11,7 +11,7 @@ This project is a fork (mavenized) from [SimpleDB](http://www.cs.bc.edu/~sciore/
 Execute in the following order the main files contained in src/client/java to ensure that the system is working correctly:
 
  * CreateStudentDB => Create the student database
- * FindMajors => Return the majors in the database 
+ * StudentMajors  => Return the majors of each student in the database 
 
 ## Your work
  
