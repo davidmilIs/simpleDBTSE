@@ -5,6 +5,7 @@ This project is a fork (mavenized) from [SimpleDB](http://www.cs.bc.edu/~sciore/
 ## Setting up the environment
 
  * Import the project in Eclipse (import-> check out existing Maven project from SCM)
+ * Import the client source folder (right click on project -> Java Build Path -> Source -> Select src/client/java)
  * Start the server by running: simpledb.server.Startup 
  * On the console tab, deselect the icon "show console when standard output changes"
  
